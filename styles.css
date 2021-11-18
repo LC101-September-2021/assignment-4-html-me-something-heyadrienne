@@ -1,1 +1,44 @@
 /* Write your CSS here! */
+<
+body {
+    margin: 8px;
+    display: block;
+    background-color: cornsilk;
+}
+
+nav ul {
+	text-align: center;
+	padding: 0;
+}
+
+nav ul li {
+	display: inline-block;
+	margin-right: 1em;
+}
+
+hr {
+    border-top: 1px dotted red;
+}
+
+img {
+    border: 5px solid rgb(1, 46, 5);
+}
+
+.subHeader {
+    text-align: center;
+    color: rgb(145, 3, 27);
+}
+
+#mainHeading {
+   color: red;
+   text-align: center; 
+}
+
+.funParagraph {
+    color: green;
+}
+
+footer {
+    text-align: center;
+}
+
